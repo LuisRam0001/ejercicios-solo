@@ -8,6 +8,7 @@ if(edad <= 17){
 
 else{
     document.write('Puedes conducir')
+    
 }
 
 
